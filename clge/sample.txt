@@ -1,0 +1,3 @@
+Hello, this is a sample text file!
+We can perform read and write operations on this file.
+This is new content appended to the file.
